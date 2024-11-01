@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F7nKnFhW)
 # MiniProject-1: Constructor Functions & Class Notation
 
 In this project, you are going to practice working with constructor functions and class notations to recreate a script written using plain objects, to implement the design shown in the image below.
